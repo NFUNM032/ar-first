@@ -50,6 +50,7 @@
 
 **4. 安装sdk（Andriod开发包）**
   软件：android-sdk_r24.4.1-windows
+
 ![Andriod开发包](https://upload-images.jianshu.io/upload_images/9456717-431d855f6f615c3c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **5. 配置unity开发环境**
