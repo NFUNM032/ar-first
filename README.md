@@ -46,6 +46,7 @@
    - (4) 验证是否成功安装Java
    
 打开cmd 使用“Java -version”命令查看是否安装成功
+
 ![成功安装界面](https://upload-images.jianshu.io/upload_images/9456717-93e928568f7f3c2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **4. 安装sdk（Andriod开发包）**
